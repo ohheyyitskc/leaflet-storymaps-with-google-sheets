@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Comic sans", sans-serif;
   overflow: hidden;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 #contents {
-  padding: 0;
+  padding: 100;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
